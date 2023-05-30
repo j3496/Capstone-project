@@ -3,11 +3,13 @@ html {
   width: 100%;
 }
 body {
-  background-color: black;
+	background-color: black;
 }
 h1 {
-  color: blue;
+	color: blue;
+	font-family: Brush Script MT;
 }
 p {
-  color: red;
+	color: red;
+	font-family: courier;
 }
