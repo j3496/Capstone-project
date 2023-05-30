@@ -7,22 +7,24 @@
 
 <body>
 	<div id="includedContent"></div>
-	<script src="script.js" , type="text/javascript"></script>
-	<a href="stage_1.html"> Continue?</a>
-	<p>
-		You begin your adventures in a small french hamlet, where a crowd is trying to accuse a woman of being a witch
-	</p>
-	<button onclick="setTimeout(ignore, 1000)">Ignore them</button>
-	<button onclick="setTimeout(investigate, 1000)">See what's going on</button>
-
-	<script>
+	<script src="script.js" , type="text/javascript">
 		function ignore() {
-			document.write("You ignored them, and continued on your marry way")
+			text = ("You ignored them, and continued on your marry way")
 		}
 		function investigate() {
-			document.write("As you make your way over towards the crowd, you see that they're trying to 				convince somone that indeed the woman they have captured is actually a witch")
+			text = ("As you make your way over towards the crowd, you see that they're trying to 				convince somone that indeed the woman they have captured is actually a witch")
 		}
 	</script>
+	<p>
+		You begin your adventures in a small french hamlet, where a crowd is trying to accuse a woman of being a witch, what will you do
+	</p>
+	<!--
+		links to continue the adventure
+	-->
+	<a href= "bye.html">Ignore them</a>
+	<a href="stage_1.html">See what's going on</a>
+
+
 
 </body>
 

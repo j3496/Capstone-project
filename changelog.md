@@ -10,3 +10,5 @@ added a proposal file
 
 v1.1
 started writing the story
+added-style.css
+added-a bit of colour to the page
