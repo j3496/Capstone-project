@@ -12,3 +12,5 @@ v1.1
 started writing the story
 added-style.css
 added-a bit of colour to the pages
+changed-the colour of the pages to make it easier to read
+added-more files to extend the story
