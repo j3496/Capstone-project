@@ -1,4 +1,4 @@
-Premise: The premise of this program is to create a text based adventure using a mix of html and javascript using different websites and built in hyper links to navigate through the adventure and to access different parts of the code. 
+Premise: The premise of this program is to create a text based adventure using a mix of html, CSS and javascript using different websites and built in hyper links to navigate through the adventure and to access different parts of the code. 
 
 Must-have list: 
 -Have multiple webpages as different options

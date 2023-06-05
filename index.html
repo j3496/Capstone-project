@@ -24,23 +24,24 @@ CS 30
 	Starting the adventure
 	-->
 	<div id="includedContent"></div>
-	<p id="time"></p><p>Are you ready to begin your adventure?</p>
+	<h1 id="time"></h1>
+	<p>Are you ready to begin your adventure?</p>
 	<script src="script.js" , type="text/javascript"></script>
-	<a href="start.html">Yes</a>
-	<a href="bye.html">No</a>
-	<p id="time"></p>
+	<a href="start.html">Yes </a>
+	<a href="bye.html"> No</a>
+
 
 	<script>
-	const time = new Date().getHours();
-	let greeting;
-	if (0 < time < 9) {
-		greetings = "Good morning ";
-	} else if (9 < time < 21) {
-		greetings = "Good day ";
-	} else {
-		greetings = "Good evening ";
-	}
-	document.getElementById("time").innerHTML = greetings;
+		const time = new Date().getHours();
+		let greeting;
+		if (0 < time < 9) {
+			greetings = "Good morning ";
+		} else if (9 < time < 21) {
+			greetings = "Good day ";
+		} else {
+			greetings = "Good evening ";
+		}
+		document.getElementById("time").innerHTML = greetings;
 	</script>
 </body>
 

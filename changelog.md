@@ -14,3 +14,5 @@ added-style.css
 added-a bit of colour to the pages
 changed-the colour of the pages to make it easier to read
 added-more files to extend the story
+changed-the colour of the headings in the "style.css" file
+added Reset.css
