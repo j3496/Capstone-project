@@ -23,3 +23,5 @@ Fixed-the reason css wasn't working for certain files
 Finished a second branch of the story
 moved-Reset.css and style.css to the css folder
 finished the story
+added alpha_testing.md
+finished alpha testing
